@@ -6,3 +6,6 @@ Works like a Real world dictonary application
    AND ASK FROM THE USER IF IT IS THE WORD USER IS SEARCHING FOR.                                             
    
    ---->GIVES A USER FRIENDLY ERROR MESSAGE IF WORD IS NOT FOUND.
+  <img src="1.png"></img>
+  <img src="2.png"></img>
+  <img src="3.png"></img>
