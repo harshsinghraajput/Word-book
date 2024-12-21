@@ -22,7 +22,7 @@ def findmeaning(word):
             return "Sorry! I cannot find your word"
 
     else:
-        return "I can't fimd this word. Please look for spelling mistakes"
+        return "I can't find this word. Please look for spelling mistakes"
 
 word = input("Type Any Word Here: ")
 
